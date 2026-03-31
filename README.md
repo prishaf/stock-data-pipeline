@@ -163,17 +163,26 @@ GROUP BY symbol;
 
 ---
 
-## 12. Dashboard Preview
-
-![Dashboard](stockdb.png)
-
----
-## 13. Architecture Preview
+## 12. Architecture Preview
 
 ![Architecture](architecture_stock.png)
 
 ---
+## 13. Dashboard Preview
 
-## 14. Conclusion
+![Dashboard](stockdb.png)
+
+---
+## 14. Lambda Results
+
+![Dashboard](lambda.png)
+
+---
+## 15. Anthena queries 
+
+![Dashboard](anthena.png)
+
+---
+## 16. Conclusion
 
 This project demonstrates a complete data engineering workflow, from ingestion to visualization, using modern cloud-based tools. It highlights best practices in data pipeline design, scalable storage, and analytics, making it suitable for real-world data engineering and analytics use cases.
